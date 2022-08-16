@@ -1,5 +1,6 @@
 <h2 align="center">
   Portfolio Website - v2.0<br/>
+<<<<<<< HEAD
   <a href="" target="_blank">ottojoash</a>
 </h2>
 <
@@ -13,6 +14,14 @@
     <a href="https://github.com/ottojoash/my-portfolio/issues">Report Bug</a> &nbsp; &nbsp;
     🔹
     <a href="https://github.com/ottojoash/my-portfolio/issues">Request Feature</a>
+=======
+
+
+<h3 align="center">
+    🔹
+   🔹
+
+>>>>>>> origin/master
 </h3>
 
 ## TL;DR
@@ -21,7 +30,11 @@ You can fork this repo to modify and make changes of your own. Please give me pr
 
 ## Built With
 
+<<<<<<< HEAD
 My personal portfolio <a href="http://ottojoash/" target="_blank">ottojoash</a> which features some of my github projects as well as my resume and technical skills.<br/>
+=======
+
+>>>>>>> origin/master
 
 This project was built using these technologies.
 
@@ -63,4 +76,7 @@ You will find all the components used and you can edit your information accordin
 
 Give a ⭐ if you like this website!
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> origin/master
