@@ -10,7 +10,7 @@
 
 ## TL;DR
 
-You can fork this repo to modify and make changes of your own. Please give me proper credit by linking back to [Soumyajit4419](https://github.com/ottojoash/my-portfolio). Thanks!
+You can fork this repo to modify and make changes of your own. Please give me proper credit by linking back to [ottojoash](https://github.com/ottojoash/my-portfolio). Thanks!
 
 ## Built With
 
